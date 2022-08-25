@@ -20,5 +20,4 @@ public class LoginPage {
         return PageFactory.initElements(Browser.driver, PIMPage.class);
     }
 
-
 }

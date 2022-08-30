@@ -23,6 +23,8 @@ public class TestBase {
     public void closeBrowser(){
         driver.close();
         driver.quit();
+        //This is a test
+
     }
 
     public LoginPage startLoginPage() {
